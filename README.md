@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm José García</h1>
-<h3 align="center">Web Devloper 👨‍💻 | CS Engineer 🦾 | Google DSC CUTonala 📚 | GNU/Linux enthusiastic 🐧</h3>
+<h3 align="center">Full-Stack Developer 👨‍💻 | Computer Science Engineer 🦾 | Google DSC CUTonala 📚</h3>
 
+```
+techSkills = []
+```
 - 🔭 I’m currently working on discord bot custom api
 
 - 🌱 I’m currently learning **Deno & docker**
@@ -8,8 +11,6 @@
 - 👨‍💻 All of my projects are available at ... Here, on my GitHub profile :D
 
 - 📝 I regularly perform workshops & talks on [https://www.facebook.com/Developer-Student-Clubs-Centro-Universitario-de-Tonal%C3%A1-UDG-101367155029392/](https://www.facebook.com/Developer-Student-Clubs-Centro-Universitario-de-Tonal%C3%A1-UDG-101367155029392/)
-
-- 💬 Ask me about **GNU/Linux**
 
 - 📫 How to reach me **josegarcia.dev@gmail.com**
 
